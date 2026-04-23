@@ -1,6 +1,6 @@
 # Titanic Data Analysis 🚢
 
-## 📌 Task 2 – Data Science Internship
+## 📌 Task 2 – Data Analysis Internship
 
 This project analyzes the Titanic dataset to understand survival patterns.
 
